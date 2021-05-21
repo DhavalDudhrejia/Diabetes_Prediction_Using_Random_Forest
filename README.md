@@ -1,4 +1,4 @@
-# Diabetes_Prediction_Using_Random_forrest
+# Diabetes_Prediction_Using_Random_Forest
 In this project i have used Random Forrest to predict wether the person has diabetes or not using PIMA data
 
 
